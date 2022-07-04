@@ -6,3 +6,9 @@
 * [GravityFlip]()
 * [TenMinutesWalk](https://www.codewars.com/kata/54da539698b8a2ad76000228/train/haskell)
 * [ReturningStrings](https://www.codewars.com/kata/55a70521798b14d4750000a4/train/haskell)
+* [RemoveExclamationMarks](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/train/haskell)
+* []()
+* []()
+* []()
+*
+*
